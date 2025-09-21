@@ -1,0 +1,7 @@
+{
+    "name": "Hirschmann Network Switches",
+    "homeassistant": "2025.9.4",
+    "hacs": "2.0.5",
+    "zip_release": true,
+    "filename": "hirschmann_switches.zip"
+}

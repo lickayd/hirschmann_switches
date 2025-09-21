@@ -1,0 +1,10 @@
+# Artifacts
+__pycache__
+.pytest*
+
+# Home Assistant configuration
+config/*
+!config/configuration.yaml
+
+# Misc
+.DS_Store

@@ -1,0 +1,35 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Host",
+                    "snmp_version": "SNMP Version"
+                }
+            },
+            "v2c": {
+                "data": {
+                    "community_read": "Read Community",
+                    "community_write": "Write Community (optional)"
+                }
+            },
+            "v3": {
+                "data": {
+                    "auth_password": "Auth Password",
+                    "auth_type": "Auth Type",
+                    "priv_password": "Privacy Password",
+                    "priv_type": "Privacy Type",
+                    "username": "Username"
+                }
+            }
+        }
+    }
+}
